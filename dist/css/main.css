@@ -173,6 +173,10 @@ body {
   line-height: 1.6;
   background: #fff; }
 
+p {
+  font-weight: 555;
+  font-size: 1.1em; }
+
 a {
   text-decoration: none; }
 
